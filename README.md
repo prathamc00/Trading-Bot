@@ -27,12 +27,12 @@ trading_bot/
 │   ├── client.py          # Binance client setup
 │   ├── orders.py          # Order placement logic
 │   ├── validators.py      # CLI input validation
-│   ├── logging_config.py  # Logging setup
+│   └── logging_config.py  # Logging setup
 │
 ├── cli.py                 # Entry point
-├── .env                   # API keys
 ├── requirements.txt
 └── README.md
+
 
 Setup Instructions
 1) Create Binance Futures Testnet Account
