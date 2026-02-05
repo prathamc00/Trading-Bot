@@ -18,7 +18,9 @@ Logs all API requests and responses to a file
 
 Basic error handling
 
-Project Structure
+
+File structure 
+
 trading_bot/
 │
 ├── bot/
