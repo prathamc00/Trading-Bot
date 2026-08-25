@@ -76,6 +76,6 @@ Notes
 
 Quantity and price values must follow Binance lot size rules.
 
-Only works on Binance Futures Testnet.
+Only works on Binance Futures Testnet
 
 Designed as a small, modular CLI tool for clarity and easy extension.
